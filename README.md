@@ -1,2 +1,3 @@
 # PowerBI_Shield_Insurance_Project
-[shield_insurance_logo](https://github.com/user-attachments/assets/d923b0cd-3866-4d82-a571-55b595ea91f2)
+
+![shield_insurance_logo](https://github.com/user-attachments/assets/87116967-5c03-47e7-b9b9-e53db0ee5ab7)
